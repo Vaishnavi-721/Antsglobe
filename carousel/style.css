@@ -1,0 +1,11 @@
+.carousel-inner{
+    width: 100%;
+    background-color: rgb(54, 109, 151);
+    height: 700px;
+}
+
+.card{
+     margin-top: 170px;
+     width: 20rem;
+    
+}
